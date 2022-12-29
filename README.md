@@ -1,6 +1,4 @@
 # Create an awesome 3d Landing Page for Apple iphone in React JS
-?style=social)](https://youtu.be/cT160dOzpGY)<br />
-><br><br>
 
 ### Images of The 3d landing page Website:
 
